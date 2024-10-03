@@ -1,1 +1,1 @@
-# 64061_lliu30
+# Advanced Machine Learning (CRN: 64061)
